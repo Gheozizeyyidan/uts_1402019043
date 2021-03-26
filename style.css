@@ -1,0 +1,22 @@
+.jumbotron {
+    text-align: center;
+}
+
+.tengah {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.samping {
+    width: 50%;
+}
+
+.samping img {
+    width: 100%;
+    height: 600px;
+}
+
+.btn-primary {
+    background-color: #ffb300;
+}
